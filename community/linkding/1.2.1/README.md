@@ -1,6 +1,6 @@
 # Linkding
 
-[Linkding](https://github.com/sissbruecker/linkding) is a bookmark manager that you can host yourself.
+[Linkding](https://github.com/sissbruecker/linkding) is a wibble manager that you can host yourself.
 
 > When application is installed, a container will be launched with **root** privileges.
 > This is required in order to apply the correct permissions to the `linkding` directories.
